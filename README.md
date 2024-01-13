@@ -17,7 +17,9 @@ So I aim to assess and communicate potential risks to the team in order to minim
 - [FlowUp's way of working](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)
 
 ## My GitHub contributions
-![github_stats](https://github-readme-stats-kates-projects-a08b470d.vercel.app/api?username=tlacenka&theme=shadow_red&show_icons=true)
+![github_stats](https://github-readme-stats-kates-projects-a08b470d.vercel.app/api?username=tlacenka&theme=shadow_red&show_icons=true&hide=stars&show=reviews,prs_merged_percentage&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats-kates-projects-a08b470d.vercel.app/api/top-langs/?username=tlacenka&size_weight=0.5&count_weight=0.5&exclude_repo=GAL-Karger-algorithm&layout=compact)
 
 ## My tech stack
 Here is a list of technologies and tools I use regularly.
@@ -25,6 +27,7 @@ However, I am not a specialist and believe that it is important to learn about n
 
 You might have noticed I have quite a long list of documentation tools. That is because I believe that documentation is one of the most important factors of a successful product.
 And by that I don't mean that investing weeks into writing (and later maintaining) an extensive documentation is the right way.
+
 I simply believe that there should be a single source of truth. Good issue definition with a user story, clear test case descriptions that help understand a functionality and helps deduce test coverage and wiki with links and architectural diagrams are key to a successful product. It is always a bad sign when onboarding takes too long and developers are expected to hold all the product information in their memory.
 
 ### Languages and frameworks
