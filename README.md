@@ -1,4 +1,4 @@
-## Hi there
+Hi there!
 I am Kate, a QA engineer and test architect at [FlowUp](https://flowup.cz/).
 
 ## 🧪 About my role
