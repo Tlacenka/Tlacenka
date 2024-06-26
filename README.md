@@ -13,6 +13,7 @@ From a process perspective, I am an advocate for shifting left. Prevention and i
 So I aim to assess and communicate potential risks to the team in order to minimise refactoring in the future.
 
 ## 📰 Articles
+- [Making sense of all the QA roles](https://medium.com/@tlacenka/making-sense-of-all-the-qa-roles-7b0ef36765b3)
 - [The What versus How in development](https://medium.com/@tlacenka/the-what-versus-how-in-development-2fe5ae0dd36a)
 - [The importance of having a tester](https://flowup.cz/en/article/the-importance-of-having-a-tester)
 - [FlowUp's way of working](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)
