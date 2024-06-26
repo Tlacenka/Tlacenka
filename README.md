@@ -1,5 +1,5 @@
 Hi there!
-I am Kate, a QA engineer and test architect at [FlowUp](https://flowup.cz/).
+I am Kate, a quality enthusiast.
 
 ## 🧪 About my role
 Quality Assurance for me isn't just about testing - it is a mindset.
