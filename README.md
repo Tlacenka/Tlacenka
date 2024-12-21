@@ -40,23 +40,27 @@ I simply believe that there should be a single source of truth. Good issue defin
 
 ### Testing frameworks
 ![cypress](https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)
-![Cucumber.js](https://img.shields.io/badge/Cucumber.js-%43B02A?style=for-the-badge&logo=javascript&logoColor=white)
-![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![playwright](https://custom-icon-badges.demolab.com/badge/-playwright-2cac34?style=for-the-badge&logo=windows&logoColor=d65348)
 ![Vitest](https://img.shields.io/badge/vitest-%acd368.svg?style=for-the-badge&logo=vitest&logoColor=white)
+![Jest](https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
+![React Testing Library](https://img.shields.io/badge/React%20Testing%20Library-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Cucumber.js](https://img.shields.io/badge/Cucumber.js-%43B02A?style=for-the-badge&logo=javascript&logoColor=white)
+![XRay](https://img.shields.io/badge/Xray-%23E5E5E5?style=for-the-badge&logo=supabase&logoColor=11998e)
 
 ### Quality tooling
 ![ESLint](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)
 ![CodeCov](https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)
 
+
 ### Versioning
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Azure DevOps](https://img.shields.io/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Azure DevOps](https://custom-icon-badges.demolab.com/badge/azure%20devops-%230072C6.svg?style=for-the-badge&logo=msazure&logoColor=white)
 
 ### DevOps
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Azure Pipelines](https://img.shields.io/badge/azure%20pipelines-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Azure Pipelines](https://custom-icon-badges.demolab.com/badge/azure%20pipelines-%230072C6.svg?style=for-the-badge&logo=msazure&logoColor=white)
+![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=msazure&logoColor=white)
 
 ### Project management
 ![GitHub projects](https://img.shields.io/badge/github%20projects-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -69,12 +73,13 @@ I simply believe that there should be a single source of truth. Good issue defin
 ### Documentation
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+![Medium](https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white)
 
 ### Other technologies and tools
+![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Nx](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=F0F0F0)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
