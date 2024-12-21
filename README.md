@@ -13,12 +13,17 @@ From a process perspective, I am an advocate for shifting left. Prevention and i
 So I aim to assess and communicate potential risks to the team in order to minimise refactoring in the future.
 
 ## 📰 Articles
+- [The combined power of validation and verification](https://medium.com/@tlacenka/validation-and-verification-in-software-development-f84f6fca81da)
+- [Understanding the coverage metric](https://medium.com/@tlacenka/looking-at-the-difference-between-test-coverage-and-code-coverage-77b7099d9a54)
 - [The importance of reviews](https://medium.com/@tlacenka/the-importance-of-reviews-d99c5e6dbfab)
 - [How to write high-quality test code](https://medium.com/@tlacenka/how-to-write-high-quality-test-code-d34ec4a749ef)
 - [Making sense of all the QA roles](https://medium.com/@tlacenka/making-sense-of-all-the-qa-roles-7b0ef36765b3)
 - [The What versus How in development](https://medium.com/@tlacenka/the-what-versus-how-in-development-2fe5ae0dd36a)
 - [The importance of having a tester](https://flowup.cz/en/article/the-importance-of-having-a-tester)
 - [FlowUp's way of working](https://flowup.cz/en/article/everything-you-always-wanted-to-know-about-the-way-we-work-with-scrum)
+
+## 💬 Talks
+- [Jak psát čitelné testy (How to write readable tests)](https://www.youtube.com/watch?v=FL5w64Kec8w)
 
 ## 📊 GitHub statistics
 ![github_stats](https://github-readme-stats-kates-projects-a08b470d.vercel.app/api?username=tlacenka&theme=shadow_red&show_icons=true&hide=stars&show=reviews,prs_merged_percentage&include_all_commits=true)
